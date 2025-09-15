@@ -1,0 +1,4 @@
+Given code is ready to be merged
+When a pull request is created
+Then GitHub Actions should run linting and unit tests
+And the badge should show that the build is passing
